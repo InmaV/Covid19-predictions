@@ -1,6 +1,6 @@
 # Covid19-predictions
 
-Data and codes for prediction elaboration and filtering employed 
+Data and codes employed for prediction and filtering in I. Villanueva et al. "Country-report pattern corrections of new cases allow accurate two-week predictions of Covid19 evolution with the Gompertz model".
 
 Data_EU+EFTA+UK_2020.xlsx and Data_EU+EFTA+UK_2021.xlsx contain the cummulative COVID19 cases reported in Europe between September and November 2020 and 2021, respectively. They had been published daily by the World Health Organization (WHO) and the European Centre for Disease Prevention and Control (ECDC). Minor pre-processing was done for Data_EU+EFTA+UK_2020.xlsx, in which countries that presented only one gap in their data were corrected by distributing the extra cases reported the following day to the previous. 
 
